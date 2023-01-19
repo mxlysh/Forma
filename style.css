@@ -1,0 +1,16 @@
+body {
+	width: 100%;
+	height: 100vh;
+}
+
+div {
+	width: 270px;
+	margin: 0 auto;
+}
+
+.cr {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+	float: left;
+}
